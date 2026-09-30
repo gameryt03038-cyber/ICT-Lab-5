@@ -1,0 +1,1 @@
+Git and GitHub help developers track changes and collaborate on projects.
